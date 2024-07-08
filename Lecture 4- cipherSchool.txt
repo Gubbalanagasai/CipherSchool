@@ -1,0 +1,25 @@
+Agenda
+    1.Classes & Objects
+    2.GIT
+    4.Operators & Operands
+    5.Control Flow Statement
+    6.Feaures of java
+    7.Patterns
+
+
+1.Simple.
+
+    #java is very easy to learn as its syntax is very simple.
+    #it's Syntax is based on C++.
+    #No complicated features like pointers, operator overloading etc.
+
+
+2.Object Oriented
+
+    #java is object oriented programming language.
+    #just like the real world, it is centered on creating objects, manipulating objects and making them work together.
+    #OOPs is more secure as it provides data hiding features
+
+3. Platform Independent
+
+    #"Write once run anywhere" feature of java makes it platform independent. it allows a Java program to run on any operating system like windows, Linux, mac or Solaris
