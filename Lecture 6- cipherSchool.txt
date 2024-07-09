@@ -1,0 +1,16 @@
+Instantiation Process
+   
+       Students = new Student();
+
+1.Creating a variable to here the reference of the object
+
+2.Create an object using new keyword 
+
+3.Assigning Refernce of the created object to the variable.
+
+
+Heap & Stack Memory
+      The Heap-memory allocation is further divided into three categories:- These three categories help us to prioritize the data(Objects) to be stored in the Heap-memory or in the Garbage collection.
+
+Young Generation – It’s the portion of the memory where all the new data(objects) are made to allocate the space and whenever this memory is completely filled then the rest of the data is stored in Garbage collection.
+Old or Tenured Generation – This is the part of Heap-memory that contains the older data objects that are not in frequent use or not in use at all are placed.
