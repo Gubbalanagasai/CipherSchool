@@ -1,0 +1,50 @@
+Agenda
+    1.Implementation of objects & Classes
+    2.Types of Variables
+    3.Inheritance & Types
+    4.Diamond Problem
+    5.Polymorphism
+    6.Constructors
+
+
+
+code:
+ 
+
+package coreJava;
+
+public class LoopStudy {
+
+     public static void main(String[] args) {
+//       System.out.println(1);
+//       System.out.println(2);
+         int i;
+         for(i=1;i<=100;i++)
+         {
+             System.out.println(i+1);
+         }
+         System.out.println("i is: " +i);
+
+//       WHTIE LOOP
+         int n = 5;
+         while(n>0)
+         {
+             System.out.println("Hello");
+             n--;
+         }
+         System.out.println("After while loop n is: "+n);
+
+
+//       DO-WHILE LOOP
+         n = 5;
+         do {
+             System.out.println();
+           }
+        }
+}
+
+
+
+
+       }
+}
