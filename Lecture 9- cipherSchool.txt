@@ -1,0 +1,69 @@
+Types of Variables
+
+code:
+
+package CoreJava;
+
+class Car{
+    String name;
+    String colour;
+    int year;
+    int maxSpeed;
+    void accelerate() {
+        System.out.println("Car is accelerating");
+     }
+ }
+
+public class CarStudy {
+
+     public static void main(String[]args) {
+         Car polo = new Car();
+         System.out.println(polo.name);
+         System.out.println(polo.color);
+         System.out.println(polo.year);
+         System.out.println(polo.maxSpeed);
+
+         polo.name = "Polo';
+         polo.color = "Red";
+         polo.year = 2016;
+         polo.maxSpeed = 120;
+
+         System.out.println(polo.name);
+         System.out.println(polo.color);
+         System.out.println(polo.year);
+         System.out.println(polo.maxSpeed);
+       }
+}
+
+2.Instance Reference Variable
+
+class Student {
+    int rollno;
+}
+class Helper
+{
+  Student s=new student();
+  void set(int n)
+  {      s.rollno=n;}
+  void show()
+  {        System.out.println(s.rollno);}
+{
+class MainClass
+{
+    public static void main(String[] args) {
+    Helper obj=new Helper();
+    obj.set(1);
+    obj.show();
+  }
+}
+
+Inheritance
+one of the most important features of OOP.
+#Using inheritance, we can create new classes from already existing classes.
+
+#existing classes from which new classes are derived are called base/parent/super classes.
+
+#New classes are called derived/child/sub classes.
+
+#code reusability is the main benefit of inheritance
+
