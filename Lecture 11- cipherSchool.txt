@@ -1,0 +1,15 @@
+Static Methods
+
+Methods can be declared static using keyword static
+
+#Static methods are also called class methods
+#static methods belong to class. it can be used with class name directly, can  also be accessed using instance references
+#Static methods use static variable only, whereas non-static methods can use both instance variables&static varibles
+
+
+What is Abstraction?
+ #Data abstraction is the process of hiding certain details andshowing only essential information to tthe user.
+
+ #For e.g. We know that all cars must accelerate, brake, blow horn etc. But we don't know what exactly happens when we press the accelerator, how the accelerator
+
+
