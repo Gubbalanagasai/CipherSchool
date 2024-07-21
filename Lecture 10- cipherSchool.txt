@@ -1,0 +1,21 @@
+Code:
+
+
+package keywords;
+
+class loan {
+    int rate;
+    
+
+     loan(int rate) {
+          this.rate = rate;
+    }
+    void printRate() {
+        System.out.println(this.rate);
+   }
+}
+
+class carloan extend loan {
+    int rate;
+    
+    carloan()
