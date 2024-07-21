@@ -1,0 +1,27 @@
+package encapsulation;
+
+class Demo{
+     private int a = 5;
+     private int b = 10;
+     private int c = 15;
+     private int d = 20;
+     
+     public int getA()
+     {
+         return this.a;
+      }
+
+      public int getB()
+      {
+           return this.b;
+       }
+}
+public class EncapStudy {
+
+    public static void main(String[] args) {
+
+         Demo d = new Demo();
+ 
+         System.out.println d.getA());
+    }
+}
